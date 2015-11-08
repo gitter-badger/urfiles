@@ -1,6 +1,8 @@
 language: java
-script: gradle build
+script: gradle check
 jdk:
   - oraclejdk8
+before_install:
+  - pip install --user codecov
 after_success:
   - codecov
