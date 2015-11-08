@@ -1,4 +1,5 @@
 # Urfiles
+[![Build Status](https://travis-ci.org/el-bombillo/urfiles.svg?branch=master)](https://travis-ci.org/el-bombillo/urfiles)
 
 RESTful media management service. 
 In other words: This service manages _'ur files_... ;)
