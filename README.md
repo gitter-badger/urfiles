@@ -1,5 +1,6 @@
 # Urfiles
 [![Build Status](https://travis-ci.org/el-bombillo/urfiles.svg?branch=master)](https://travis-ci.org/el-bombillo/urfiles)
+[![codecov.io](https://codecov.io/github/el-bombillo/urfiles/coverage.svg?branch=master)](https://codecov.io/github/el-bombillo/urfiles?branch=master)
 
 RESTful media management service. 
 In other words: This service manages _'ur files_... ;)
