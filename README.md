@@ -1,4 +1,6 @@
 # Urfiles
+
+[![Join the chat at https://gitter.im/el-bombillo/urfiles](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/el-bombillo/urfiles?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Build Status](https://travis-ci.org/el-bombillo/urfiles.svg?branch=master)](https://travis-ci.org/el-bombillo/urfiles)
 [![codecov.io](https://codecov.io/github/el-bombillo/urfiles/coverage.svg?branch=master)](https://codecov.io/github/el-bombillo/urfiles?branch=master)
 
